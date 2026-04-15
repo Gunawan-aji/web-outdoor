@@ -6,7 +6,7 @@
 
 $host = 'hlbwrlrtx70nc0sktfmrnw1i';
 $user = 'root';
-$password = 'gunawan471';
+$password = 'gunawan123';
 $database = 'outdoor_db';
 
 try {

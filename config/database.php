@@ -6,8 +6,8 @@
 
 $host = 'omniue0ydv16k4k0s5gdx8rt';
 $user = 'root';
-$password = 'gunawan123';
-$database = 'outdoor_db';
+$password = 'gunawan471';
+$database = 'outdoordb';
 
 try {
     $conn = new mysqli($host, $user, $password, $database);

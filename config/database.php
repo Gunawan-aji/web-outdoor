@@ -5,7 +5,7 @@
  */
 
 $host = 'omniue0ydv16k4k0s5gdx8rt';
-$user = 'root';
+$user = 'mysql';
 $password = 'gunawan471';
 $database = 'outdoordb';
 

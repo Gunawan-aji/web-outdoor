@@ -22,7 +22,7 @@ try {
 }
 
 // Define base URL
-define('BASE_URL', 'http://localhost/proyek-rekayasa-web');
+define('BASE_URL', 'http://outdoor.gnwn.web.id');
 define('ADMIN_URL', BASE_URL . '/admin');
 define('ASSETS_URL', BASE_URL . '/assets');
 

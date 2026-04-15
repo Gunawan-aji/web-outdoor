@@ -4,7 +4,7 @@
  * For Outdoor Adventure Website
  */
 
-$host = 'hlbwrlrtx70nc0sktfmrnw1i';
+$host = 'omniue0ydv16k4k0s5gdx8rt';
 $user = 'root';
 $password = 'gunawan123';
 $database = 'outdoor_db';

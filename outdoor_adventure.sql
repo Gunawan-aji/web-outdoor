@@ -3,8 +3,8 @@
 -- For: Outdoor Equipment Rental & Open Trip Website
 -- =====================================================
 
-CREATE DATABASE IF NOT EXISTS outdoor_adventure;
-USE outdoor_adventure;
+-- CREATE DATABASE IF NOT EXISTS outdoor_adventure;
+-- USE outdoor_adventure;
 
 -- =====================================================
 -- Table: users (Admin & Karyawan)

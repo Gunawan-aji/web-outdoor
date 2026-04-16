@@ -3,8 +3,8 @@
 -- For: Coffee Shop Website
 -- =====================================================
 
-CREATE DATABASE IF NOT EXISTS kopi_kenangan;
-USE kopi_kenangan;
+-- CREATE DATABASE IF NOT EXISTS kopi_kenangan;
+-- USE kopi_kenangan;
 
 -- =====================================================
 -- Table: users (Admin & Karyawan)
